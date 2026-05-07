@@ -1,0 +1,201 @@
+erp_id,erp_name
+1,1
+2,18
+3,4
+4,6
+5,9
+6,Action Finland confirmed S/4HANA
+7,"Action confirmed S/4HANA, Salling Group inference for Netto Polska, Spar Interna"
+8,Ahold Delhaize / Jumbo SAP signals correct
+9,"Ahold Delhaize SAP, Jumbo/GCP, Plus/Coop merger Coupa, Vomar Microsoft, Ekoplaza"
+10,"Aldi UK rollout, B&M SAP signal"
+11,Best Signal
+12,"Biedronka SAP confirmed (cloud incorrect — should be OCI not Azure), Auchan/Ival"
+13,Biedronka migration probable (cloud wrong — said AWS)
+14,Blue Yonder / JDA Merchandise Mgmt
+15,Cactus Intec/INEAKO + EDI legacy correctly identified; Cora→Carrefour acquisitio
+16,"Cactus, Auchan, Delhaize, Aldi correctly attributed"
+17,"Colruyt CSB Factory ERP for meat (real signal!), PwC Delhaize SAP, Carrefour BE "
+18,Confirmed
+19,Conservative SAP attribution
+20,Conservative SAP attribution for Big Three
+21,Conservative SAP attribution top 5
+22,Conservative SAP for Tier 1
+23,Conservative SAP for top 5
+24,"Conservative SAP for top groups, includes Bunnpris/Normal correctly"
+25,Conservative SAP for top tier
+26,Conservative parent inferences
+27,Contested (Toshiba ELERA + EDI vs SAP)
+28,Contested (Toshiba ELERA vs SAP)
+29,Continente Salesforce Commerce + Azure cloud signals; Trace One PLM Intermarché 
+30,Coop SAP correct
+31,Custom
+32,D365
+33,Dynamics AX
+34,ERP System
+35,"EXITED MARKET — Per Gemini: Spar/Interspar acquired by Albert in 2023, banners m"
+36,"Eurocash Group SAP private cloud migration (CRM + S/4HANA + CAR + PO), Selgros S"
+37,Heavy SAP attribution everywhere
+38,Infor
+39,Infor CloudSuite
+40,JD Edwards World A9.4
+41,Legacy (Carrefour/Eroski/Suma transition)
+42,Legacy (Lidl-linked)
+43,Legacy SAP (winding down — store closing 2024)
+44,Legacy SAP via Carrefour
+45,Legacy — absorbed into Jumbo
+46,Legacy — converted to Intermarché
+47,Legacy — stores converted to Albert Heijn / Vomar / DekaMarkt
+48,Legacy — transitioning
+49,Lidl STACKIT signal; Aldi job postings
+50,"Lidl WAWS eLWIS, Aldi Süd/Nord clarification, BTech-SPAR integration case 2023 ("
+51,"Mercadona SAP, Eroski/Ivalua, Alcampo/Ivalua, BonÀrea Microsoft, HiperDino Micro"
+52,Mercadona attribution wrong (says proprietary) but Carrefour/Lidl/El Corte Inglé
+53,Microsoft Dynamics 365
+54,Microsoft Dynamics 365 Business Central
+55,Microsoft Dynamics 365 Business Central (Sabis)
+56,Microsoft Dynamics 365 F&O
+57,Microsoft Dynamics 365 F&O (AF Blakemore / Henderson Group NI)
+58,Microsoft Dynamics 365 F&O (AML Foods)
+59,Microsoft Dynamics 365 F&O 2022
+60,Microsoft Dynamics 365 F&O 2023
+61,Microsoft Dynamics GP (legacy)
+62,Most conservative
+63,Most conservative — only Mercadona attributed
+64,"Most signals: Asda Project Future, Aldi DX, Co-op SAP, Waitrose JLP, Costco SAP,"
+65,Musgrave SAP signal correct
+66,"NorgesGruppen SAP retail/wholesale core inferred migration to S/4, ASKO inferred"
+67,Oracle (job posting signal)
+68,Oracle Cloud
+69,Oracle E-Business Suite 12.2
+70,Oracle EBS 12.2
+71,Oracle Fusion
+72,Oracle NetSuite
+73,Oracle Retail
+74,Per Albert
+75,Per Albert Heijn
+76,Per Albert Heijn Belgium
+77,Per Alcampo
+78,Per Auchan Italia
+79,Per Auchan PT
+80,Per Auchan Polska
+81,Per BILLA
+82,Per BM Supermercados
+83,Per Bestway
+84,Per Bilka
+85,Per Bonpreu
+86,Per Booker
+87,Per Bunnpris
+88,Per COOP Česká (fragmented)
+89,Per Cactus
+90,Per Carrefour Belgium
+91,Per Carrefour España
+92,Per Carrefour Italia
+93,Per Carrefour Polska
+94,Per Colruyt
+95,Per Conad
+96,Per Consum
+97,Per Continente
+98,Per Coop Danmark
+99,Per Coop Italia
+100,Per Coop Mega
+101,Per Coop Schweiz
+102,Per Coop Sverige
+103,Per DIA
+104,Per Dagrofa
+105,Per Delhaize Belgium
+106,Per Delhaize Luxembourg
+107,Per Delikatesy Centrum
+108,Per Denner
+109,Per Despar Italia
+110,Per Dino Polska
+111,Per Dirk (Detailresult split)
+112,Per ECI
+113,Per Ekoplaza
+114,Per Eroski
+115,Per Eurocash Cash & Carry
+116,Per Extra/Coop Norge
+117,Per Finiper
+118,Per Føtex
+119,Per Gadis
+120,Per Globus
+121,Per Globus Česká
+122,Per Hemköp
+123,Per HiperDino
+124,Per ICA Gruppen
+125,Per Iceland
+126,Per Intermarché Belgium
+127,Per Intermarché PT
+128,Per Intermarché Polska
+129,Per Jumbo
+130,Per K-Citymarket
+131,Per Kesko
+132,Per Kesko (Futurice K-Ruoka digital services case 2021)
+133,Per Kiwi
+134,Per M&S
+135,Per MAS
+136,Per Manor Food
+137,Per Match
+138,Per Match (transitioning)
+139,Per Meny
+140,Per Meny (premium niche)
+141,Per Meny Danmark
+142,Per Migros (RISE migration)
+143,Per Morrisons
+144,Per Nordby (Grensemat AB)
+145,Per NorgesGruppen
+146,Per Obs
+147,Per Pingo Doce
+148,Per Plus
+149,Per Rema 1000
+150,Per S Group
+151,Per S-Market
+152,Per Salling Group
+153,Per Sogegross
+154,Per Spar Austria
+155,Per Spar Nederland
+156,Per Spar Norge
+157,Per Spar Polska
+158,Per Spar Portugal
+159,Per Spar Schweiz
+160,Per Stokrotka
+161,Per Tesco
+162,Per Tesco Česká
+163,Per Tokmanni
+164,Per Willys
+165,"REWE Coupa for BILLA/Penny/ADEG, Spar ICS Tech Case Study, Aldi Süd DX, Kastner/"
+166,"REWE RISE Cloud signal, ALDI DX core operating system, METRO finance migration, "
+167,"REWE RISE GCP, SPAR Austria GAMBIT Consulting roadmap, ALDI Süd S/4HANA core"
+168,Retired (absorbed into Auchan branding)
+169,S Group + Kesko SAP correct
+170,"S Group SAP IT renewal (covering ERP, assortment, pricing, procurement) — strong"
+171,SAP
+172,SAP (14 systems / S/4HANA 2023)
+173,SAP (ECC or S/4HANA)
+174,SAP (migration)
+175,SAP ECC
+176,SAP S/4HANA
+177,SAP legacy → ChangoMás migration
+178,SAP via Carrefour
+179,SAP via Carrefour or independent (contested)
+180,SAP via Casino (operator)
+181,SAP via Colruyt Belgium
+182,SAP via Edeka
+183,SAP via Intermarché
+184,SAP via Pam Italy (Italian operator)
+185,SAP via Pam Panorama
+186,SAP via Selex
+187,SAP-based discount retail
+188,"Salling Group on IBM Db2 for SAP + IBM-Salling case 2024, Dagrofa EDI/VAX Integr"
+189,"Same Lawson signal as Copilot, REMA 1000 RELEX/Splunk"
+190,Softland
+191,"Sonae MC Ivalua, Jerónimo Martins OCI, Auchan/Ivalua, Intermarché PT Ivalua, Ald"
+192,"Sonae MC, Pingo Doce, Auchan all marked Probable SAP"
+193,State procurement system
+194,"Strong ""echoloc anchor list"" SAP attribution for top groups"
+195,Strong on top 4 SAP attribution
+196,Surfaces SuperValu SAP signal; Aldi rollout
+197,Tesco GEP SMART live across UK+IE; BWG R4 ShopLink Pro + IBM Planning Analytics;
+198,Totvs
+199,Totvs Protheus
+200,Unknown

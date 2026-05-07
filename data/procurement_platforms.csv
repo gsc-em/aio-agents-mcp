@@ -1,0 +1,95 @@
+procurement_id,procurement_name
+1,14
+2,24
+3,26
+4,30
+5,6
+6,60
+7,Acceptable
+8,Acceptable conservative
+9,Acceptable conservative but missed Infor signal
+10,Ariba
+11,"Ariba, Coupa"
+12,"Ariba, Coupa, GEP SMART"
+13,"Ariba, Coupa, Native"
+14,"Ariba, Determine"
+15,"Ariba, EDI"
+16,"Ariba, GEP SMART, GEP"
+17,"Ariba, Ivalua"
+18,"Ariba, JAGGAER"
+19,"Ariba, Native"
+20,"Ariba, Oracle Procurement"
+21,"Ariba, Zycus"
+22,Conservative
+23,Conservative-and-thin
+24,Coupa
+25,"Coupa, GEP SMART, GEP"
+26,"Coupa, Ivalua"
+27,Determine
+28,EDI
+29,"GEP SMART, GEP"
+30,Heavy hallucination
+31,Heavy hallucination on minor banners
+32,Heavy hallucination on parents
+33,Heavy hallucination on small chains
+34,Highest aggregate signal yield
+35,Highest signal yield
+36,Highest signal yield BUT missed OCI signal
+37,Highest signal yield in EU
+38,Highest signal yield in EU so far
+39,Highest signal yield in NL
+40,Highest signal yield in Portugal
+41,Inferred
+42,Infor Procurement
+43,Internal
+44,Ivalua
+45,"Ivalua, EDI"
+46,JAGGAER
+47,Lowest false specificity
+48,Lowest signal yield
+49,Lowest yield
+50,Manual
+51,"Manual, EDI"
+52,Mixed
+53,Mixed accuracy
+54,Most conservative
+55,Native
+56,"Native, EDI"
+57,"Native, Manual"
+58,Notes
+59,Oracle Procure
+60,Oracle Procurement
+61,Per Auchan
+62,Per Bestway
+63,Per Booker
+64,Per M&S
+65,Procurement
+66,RELEX Solutions
+67,Reliable
+68,Reliable conservative
+69,Reliable on S Group documentation
+70,Reliable on cloud signals
+71,Reliable on legacy stack
+72,Reliable on legacy stack signals
+73,SAP module + Analytics Cloud
+74,SAP suite
+75,State procurement
+76,Strong on legacy signals
+77,Strong on legacy state
+78,Strong on news case studies
+79,Strong on niche SAP retail products
+80,Strong on niche Tesco Oracle legacy + Bidfood SAP Business One signals
+81,Strong on niche legacy signals
+82,Strong on niche signals
+83,Strong on niche tooling
+84,Strong on niche/legacy + analytics signals
+85,Strong primary sources
+86,Strong vendor-source citations
+87,Strongest on niche SAP retail products
+88,Top performer for Tokmanni Dynamics AX signal — caught what others missed
+89,Top performer in Sweden — caught the Infor signal everyone else missed
+90,Top performer on COOP Morava local ERP signal
+91,Top performer on Spar Polska BTech case + Action I-SERWIS
+92,Unknown
+93,"Very low false positives, low signal yield"
+94,—

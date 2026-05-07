@@ -1,0 +1,6 @@
+confidence_id,tier,description
+1,CONFIRMED,Cross-LLM consensus (5-of-6 or 6-of-6)
+2,PROBABLE,"Likely accurate, partial LLM agreement"
+3,INFERRED,Inferred from parent group / corporate structure
+4,CONTESTED,"Sources disagree, manual review needed"
+5,UNKNOWN,No reliable attribution available

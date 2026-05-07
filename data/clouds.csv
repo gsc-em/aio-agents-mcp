@@ -1,0 +1,106 @@
+cloud_id,cloud_name
+1,"""ERP G.O.L.D. Retail at Dino Polska"" — only ChatGPT mentione"
+2,"""R4 ShopLink Pro"" is real (BWG ordering tool) but procuremen"
+3,11
+4,3
+5,8
+6,AWS
+7,"AWS, Hybrid"
+8,"AWS, On-prem"
+9,Azure
+10,"Azure, AWS"
+11,"Azure, AWS, Hybrid"
+12,"Azure, GCP"
+13,"Azure, GCP, AWS, Hybrid"
+14,"Azure, GCP, Hybrid"
+15,"Azure, Hybrid"
+16,"Azure, On-prem"
+17,"Azure, On-prem, Hybrid"
+18,"Azure, Private Cloud"
+19,"Blanket SAP ECC for everything (Conad, Coop, Famila, Iper Fi"
+20,Blanket SAP everywhere (CBA-style hallucination)
+21,"Blanket SAP everywhere — Conad cluster, Coop cluster, Selex "
+22,"Colruyt ""Custom/proprietary"" claim outdated (now SAP S/4HANA"
+23,Conservative on Biedronka
+24,Conservative on cloud specifics
+25,Conservative on contested signals
+26,Conservative on most CZ
+27,"Conservative — only confirms cloud, not ERP"
+28,GCP
+29,"GCP, AWS"
+30,"GCP, AWS, Hybrid"
+31,"GCP, On-prem"
+32,Google Cloud
+33,Google Cloud (Gemini)
+34,"HEC, Azure"
+35,"HEC, Azure, Hybrid"
+36,"Heavy ""echoloc anchor list"" reliance"
+37,"Heavy ""echoloc"" gaps for Norway"
+38,"Heavy ""echoloc"" reliance"
+39,"Heavy ""echoloc"" reliance for unrelated banners"
+40,"Heavy ""no public ERP evidence"""
+41,"Heavy reliance on ""echoloc"" anchor list (some false positive"
+42,"Heavy reliance on echoloc list (some false positives — e.g.,"
+43,Hybrid
+44,Hyperscaler
+45,Identifies real legacy contradictions
+46,Limited beyond top 3
+47,Limited beyond top 4
+48,Limited beyond top 5
+49,Limited beyond top groups
+50,Limited signal beyond top tier
+51,"Mercadona ""Custom/proprietary Confirmed"" is wrong; blanket S"
+52,Minor speculation on Spar PT D365
+53,Misses Conad/Coop/Esselunga SAP signals entirely
+54,Misses Coupa + Spar ICS specifics
+55,Misses ICA Infor signal
+56,Misses S/4HANA migration confirmations
+57,Misses Spar IE / BWG Foods D365 signal
+58,Misses Spar exit
+59,Misses every other signal entirely
+60,Misses every signal
+61,Misses everything else
+62,Misses most regional signals
+63,Misses most signals
+64,Misses nearly every signal
+65,"Most ""no public evidence"""
+66,"Most ""no public evidence"" beyond Tier 1"
+67,"Most ""no public evidence"" entries"
+68,None — strong on niche tools
+69,OCI
+70,"OCI, AWS"
+71,"OCI, AWS, On-prem"
+72,"OCI, Azure"
+73,"OCI, Azure, AWS"
+74,"OCI, Azure, GCP"
+75,"OCI, Hybrid"
+76,"OCI, On-prem"
+77,On-prem
+78,"On-prem, Hybrid"
+79,Per Bestway
+80,Per Booker
+81,Per Morrisons
+82,Per Tesco
+83,Probable
+84,SAP-managed
+85,STACKIT
+86,"Some ""iSeries"" legacy attribution"
+87,Some PMI speculation
+88,Some PMI speculation on Match/Cora dates
+89,Some echoloc reliance
+90,Some inference creep
+91,Some inheritance speculation
+92,Some legacy Oracle Retail attribution to Tesco
+93,Some version specificity
+94,Some version specificity creep
+95,TBD
+96,Unknown
+97,Worst Signal
+98,Wrong Tesco attribution (Oracle Fusion)
+99,"Wrong on ICA Gruppen — said SAP, actually Infor"
+100,Wrong: Bonpreu inferred from Consum (Bonpreu is independent 
+101,Wrong: Coop Nederland on Microsoft Dynamics AX (actually tra
+102,Wrong: ICA on SAP (actually Infor)
+103,Wrong: ICA on SAP S/4HANA (actually Infor)
+104,Wrong: Pingo Doce inferred from Sonae MC (Pingo Doce is Jeró
+105,—

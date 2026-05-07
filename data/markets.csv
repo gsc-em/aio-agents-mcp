@@ -1,0 +1,29 @@
+market_id,country_iso,country_name,region,banner_count,confirmed,probable,inferred,unknown
+1,AR,Argentina,LatAm,25,10,5,8,2
+2,AT,Austria,DACH,93,10,8,10,65
+3,BE,Belgium,Benelux,97,12,9,17,59
+4,BR,Brazil,LatAm,63,12,27,9,13
+5,CH,Switzerland,DACH,110,10,8,6,83
+6,CL,Chile,LatAm,19,4,3,9,1
+7,CO,Colombia,LatAm,28,7,7,11,2
+8,CR,Costa Rica + Central America,LatAm,96,11,11,21,47
+9,CZ,Czech Republic,CEE,122,11,8,8,95
+10,DE,Germany,Western EU + DACH,29,14,7,6,0
+11,DK,Denmark,Nordics,112,10,5,14,83
+12,DO,Dominican Republic,LatAm,10,4,2,3,0
+13,EC,Ecuador,LatAm,12,3,3,6,0
+14,ES,Spain,Iberia + Italy,126,17,11,14,84
+15,FI,Finland,Nordics,115,10,9,8,88
+16,FR,France,Western EU,92,11,5,18,55
+17,GB,United Kingdom,Western EU + UK + IE,104,13,7,12,71
+18,IE,Ireland,Western EU + UK + IE,79,6,4,19,50
+19,IT,Italy,Iberia + Italy,111,13,9,17,71
+20,LU,Luxembourg,Benelux,83,5,5,10,63
+21,MX,Mexico,LatAm,51,6,15,20,9
+22,NL,Netherlands,Benelux,104,11,10,7,75
+23,NO,Norway,Nordics,116,10,3,20,83
+24,PE,Peru,LatAm,14,6,3,4,0
+25,PL,Poland,CEE,131,14,8,15,93
+26,PR,Puerto Rico + Caribbean,LatAm,78,13,6,8,51
+27,PT,Portugal,Iberia + Italy,95,12,5,9,69
+28,SE,Sweden,Nordics,120,11,7,10,92
