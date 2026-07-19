@@ -1,0 +1,27 @@
+name: Publish to MCP Registry
+
+on:
+  workflow_dispatch:        # manual trigger only
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write       # REQUIRED: GitHub OIDC token proves gsc-em org ownership -> grants io.github.gsc-em/*
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install mcp-publisher (pinned)
+        env:
+          MCP_PUBLISHER_VERSION: v1.8.0
+        run: |
+          curl -fsSL "https://github.com/modelcontextprotocol/registry/releases/download/${MCP_PUBLISHER_VERSION}/mcp-publisher_linux_amd64.tar.gz" | tar -xz mcp-publisher
+          ./mcp-publisher --version
+
+      - name: Login via GitHub OIDC
+        run: ./mcp-publisher login github-oidc
+
+      - name: Publish server.json
+        run: ./mcp-publisher publish
