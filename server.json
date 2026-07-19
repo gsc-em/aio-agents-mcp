@@ -2,9 +2,9 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.gsc-em/aio-agents-mcp",
   "title": "AIO Agents MCP",
-  "description": "GSC CPG to Retail Grocery Nodes. 2,235 banners across 28 markets. By GreenCore Solutions.",
-  "version": "0.1.0",
-  "websiteUrl": "https://gsc-cpg.com",
+  "description": "CPG Human In The Loop — HITL transaction MCP. Machines lodge; humans decide. By GreenCore Solutions.",
+  "version": "0.2.0",
+  "websiteUrl": "https://cpghumanintheloop.ai",
   "repository": {
     "url": "https://github.com/gsc-em/aio-agents-mcp",
     "source": "github"
@@ -12,7 +12,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://mcp.gsc-cpg.com"
+      "url": "https://mcp.cpghumanintheloop.ai/mcp"
     }
   ]
 }
